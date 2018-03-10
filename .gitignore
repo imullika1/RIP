@@ -10,6 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Build folder
+build
+
+# Artifacts folder
+artifacts
+
 # Package Files #
 *.jar
 *.war
